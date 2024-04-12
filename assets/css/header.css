@@ -1,9 +1,5 @@
 header {
-<<<<<<< Updated upstream
   color: #623A8F;
-=======
-  color: rgb(103, 59, 121);
->>>>>>> Stashed changes
   padding: 1rem 0;
   text-align: left;
   padding-top: 3rem;
@@ -26,15 +22,12 @@ header img {
   display: flex;
   align-items: center;
   gap: 5rem;
-}
+
 
 input {
   width: 100%;
-<<<<<<< Updated upstream
+
   border: 0.3rem solid #623A8F;
-=======
-  border: 0.3rem solid #ffffff;
->>>>>>> Stashed changes
   border-right: none;
   padding: 0.5rem;
   height: 2rem;
@@ -46,13 +39,8 @@ input {
 #searchButton {
   width: 4rem;
   height: 3.6rem;
-<<<<<<< Updated upstream
   border: 0.1rem solid #623A8F;
   background: #623A8F;
-=======
-  border: 0.1rem solid #ffffff;
-  background-color: #552766;
->>>>>>> Stashed changes
   text-align: center;
   color: #fff;
   border-radius: 0 0.5rem 0.5rem 0;
@@ -63,11 +51,7 @@ input {
 header nav {
   display: flex;
   justify-content: right;
-<<<<<<< Updated upstream
   background-color: #623A8F;
-=======
-  background-color: #552766;
->>>>>>> Stashed changes
   padding: 4rem 2rem 2rem 2rem;
   margin-top: -3rem;
 }
