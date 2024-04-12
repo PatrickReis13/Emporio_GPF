@@ -5,7 +5,11 @@ footer {
   display: flex;
   align-items: center;
   padding: 1rem 0;
+<<<<<<< Updated upstream
   background-color: #623A8F;
+=======
+  background-color: #391c44;
+>>>>>>> Stashed changes
   justify-content: space-around;
 }
 

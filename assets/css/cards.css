@@ -4,8 +4,13 @@
   justify-content: center;
   width: 12rem;
   height: 15.5rem;
+<<<<<<< Updated upstream
   background-color: #ffffff;
   border: 0.5rem solid #E5BBF6;
+=======
+  background-color: #ddbee9;
+  border: 0.5rem solid ;
+>>>>>>> Stashed changes
   border-radius: 1rem;
   padding: 1rem;
   margin: 1rem;
@@ -59,7 +64,11 @@
 }
 .item-button {
   background-color: #ffffff;
+<<<<<<< Updated upstream
   color: #E5BBF6;
+=======
+  color: #552766; 
+>>>>>>> Stashed changes
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
